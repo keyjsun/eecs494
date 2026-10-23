@@ -6,6 +6,6 @@ body {
 }
 
 .main-header1 {
-  display: flex;
-  justify-content: center;
+  /* display: flex; */
+  text-align: center;
 }
